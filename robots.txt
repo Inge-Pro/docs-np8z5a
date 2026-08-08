@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-ij12ic.juragan89c.online/sitemap.xml
